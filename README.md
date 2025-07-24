@@ -47,7 +47,7 @@ All sorting algorithms are animated using `async/await` for clarity:
 | Layer       | Technology            |
 |-------------|------------------------|
 | Frontend    | React.js               |
-| State Mgmt  | `useState`, `useEffect`, `useReducer`, Context API |
+| State Mgmt  | `useState`, `useEffect`|
 | Animation   | Custom CSS, Transitions |
 | Logic       | Async/Await + JavaScript |
 | UI Styling  | External CSS (clean & minimal) |
